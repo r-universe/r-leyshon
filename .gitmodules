@@ -5,6 +5,3 @@
 [submodule "accessrmd"]
 	path = accessrmd
 	url = https://github.com/cran/accessrmd
-[submodule "ptspotter"]
-	path = ptspotter
-	url = https://github.com/r-leyshon/ptspotter
